@@ -1,2 +1,0 @@
-# MisPruebas
-pruebas de programas
